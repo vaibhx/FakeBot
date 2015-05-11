@@ -1,0 +1,9 @@
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\bin\Debug\FakeBot.exe
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\bin\Debug\FakeBot.pdb
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\bin\Debug\FakeBot.xml
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\FakeBot.vbproj.GenerateResource.Cache
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\FakeBot.exe
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\FakeBot.xml
+C:\Users\Vaibhav\Desktop\VBNET\FakeBot\FakeBot\FakeBot\obj\x86\Debug\FakeBot.pdb
